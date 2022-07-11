@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "labuladong",
-        href: "https://labuladong.github.io/"
+        href: "https://labuladong.github.io/algo/"
     },{
         title: "冰河",
         href: "https://gitee.com/binghe001/BingheGuide"
